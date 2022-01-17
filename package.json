@@ -1,0 +1,9 @@
+{
+  "browserslist": "last 2 versions, not dead",
+  "scripts": {
+    "build": "NODE_ENV=production parcel build src/index.html"
+  },
+  "devDependencies": {
+    "parcel": "^2.2.0"
+  }
+}
